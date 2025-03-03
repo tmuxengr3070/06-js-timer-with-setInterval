@@ -9,6 +9,7 @@ body {
     align-items: center;
     height: 100vh;
     text-align: center;
+    overflow: hidden; /* Prevent scrollbars from appearing */
 }
 
 /* Style the timer display */
