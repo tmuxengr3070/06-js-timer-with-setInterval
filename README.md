@@ -1,1 +1,2 @@
-# 06-js-timer-with-setInterval
+# Create a Timer with setInterval
+To get started, create a new Codespace from this repo.
