@@ -13,7 +13,7 @@ let confettiShown = false;
 // Function to start the countdown
 function startCountdown() {
     // Reset timer and counter for each start
-    timerValue = 10;
+    timerValue = 20;
     counterValue = 0;
     confettiShown = false;
     timerDisplay.textContent = timerValue;
